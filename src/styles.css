@@ -17,6 +17,10 @@ input {
   box-shadow: 2.5px 2.5px #d1d5db;
 }
 
+input:focus {
+  outline: none;
+}
+
 .meaning {
   margin: 1rem;
   font-size: large;
